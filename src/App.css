@@ -1,0 +1,186 @@
+#navb
+{
+  background-color:  white;
+}
+#brand
+{
+  color:  #06bbcc;
+  font-size: 30px;
+}
+#navt
+{
+  font-size: 20px;
+  color: #06bbcc;
+}
+
+.navbar .btn
+{
+font-size: 20px;
+}
+
+.Homesection
+{
+  height: 600px;
+  width: 100%;
+  background-color:white;
+  margin-top: 70px;
+}
+#Homesectionbtn
+{
+  background-color:#bde9ed;
+  border-radius: 8%;
+  border: none;
+  width: 150px;
+  height: 60px;
+  font-size: 20px;
+
+}
+#hcarouselimg
+{
+  opacity: 0.8;
+}
+.aboutsection
+{
+  height: 900px;
+  width: 100%;  
+}
+.aboutsection-1 i
+{
+margin-left: 33%;
+font-size: 50px;
+color:	 #66b3ff;
+
+}
+#aboutsection-2:hover
+{
+  background-color: #06bbcc;
+  color:white;
+  transition: all 1s linear ;
+}
+.abouticon:hover
+{
+  color: white;
+}
+
+.Coursesection
+{
+  height: 1500px ;
+  width: 100%;
+
+}
+#coursebtn{
+  position:absolute;
+  top:220px;
+  left: 100px;
+}
+
+#course1 {
+ margin-top: -120px;
+ margin-left: 680px;
+  background-color:
+  white;
+  color:black;
+  width: 170px;
+}
+#course2 {
+  margin-top: -120px;
+  margin-left:260px;
+   background-color:
+   white;
+   color: black;
+   width: 150px;
+ }
+ #course3 {
+  margin-top: -120px;
+  margin-left:260px;
+   background-color:
+   white;
+   color: black;
+   width: 150px;
+ }
+ #course4 {
+  margin-top: -140px;
+  margin-left:200px;
+   background-color:
+  white;
+   color: #000000;
+   width: 200px;
+   height: 80px;
+ }
+ .teamsection{
+  height: 650px;
+  width: 100%;
+  
+ }
+ .teamimg
+{
+  box-shadow: 1px 2px 3px 5px #06bbcc;
+  box-sizing: border-box;
+}
+
+.teamicon
+{
+padding: 10px;
+background-color: #00ccff;
+font-size: 30px;
+position: relative;
+left: 80px;
+bottom: 150px;
+border-radius: 10%  ;
+
+
+}
+.Error
+{
+  margin-top: 300px ;
+ 
+}
+.Errorb
+{
+  margin-left: 660px;
+  border-radius: 25%;
+  font-size: 25px;
+}
+
+ .contactsection{
+  background-color: black;
+  height: 750px;
+  width: 100%;
+  color: white;
+  padding-top: 100px;
+
+ }
+ .contact
+ {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+ }
+ #contacticon
+ {
+ 
+  border-radius: 50%;
+  padding: 8px;
+  color: white;
+  font-size:larger ;
+  box-shadow: 2px 2px 2px 3px #06bbcc;
+
+ }
+ #contacttext
+ {
+  width: 280px;
+  height: 50px;
+  border: none ;
+  padding: 10px;
+ }
+.contactbtn
+{
+  position: relative;
+  left: 200px;
+  bottom: 45px;
+ 
+}
+
+
+
+
