@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/edu-learning-react-website/static/css/main.d33d0b77.css",
+    "main.js": "/edu-learning-react-website/static/js/main.e60decb4.js",
+    "static/js/787.7cd949fd.chunk.js": "/edu-learning-react-website/static/js/787.7cd949fd.chunk.js",
+    "static/media/image4.jpg": "/edu-learning-react-website/static/media/image4.dab2b61cb5e9b54eda33.jpg",
+    "static/media/home-slide-1.jpg": "/edu-learning-react-website/static/media/home-slide-1.699f94b7037c233213db.jpg",
+    "static/media/home-slide-3.jpg": "/edu-learning-react-website/static/media/home-slide-3.ddbdb98d5078634212f3.jpg",
+    "static/media/home-slide-2.jpg": "/edu-learning-react-website/static/media/home-slide-2.e5df24389ed67ed5b73b.jpg",
+    "static/media/image-6.jpg": "/edu-learning-react-website/static/media/image-6.a54e04e9db793d174bce.jpg",
+    "static/media/image-7.jpg": "/edu-learning-react-website/static/media/image-7.7e07c574dc4fa4d8412d.jpg",
+    "static/media/image-4.jpg": "/edu-learning-react-website/static/media/image-4.c251f2cc3ceeaf4c7500.jpg",
+    "static/media/team-3.jpg": "/edu-learning-react-website/static/media/team-3.ea511638364e1cfb9f69.jpg",
+    "static/media/image-5.jpg": "/edu-learning-react-website/static/media/image-5.f7ebf3772415ecaa4706.jpg",
+    "static/media/team-4.jpg": "/edu-learning-react-website/static/media/team-4.2c2eb82dd68e400f43cc.jpg",
+    "static/media/image-10.jpg": "/edu-learning-react-website/static/media/image-10.a1c27eb1a3f510840d13.jpg",
+    "static/media/image-9.jpg": "/edu-learning-react-website/static/media/image-9.caaa59628a447a69ede6.jpg",
+    "static/media/image-8.jpg": "/edu-learning-react-website/static/media/image-8.d8bd3ee123c7eba942e3.jpg",
+    "static/media/team-1.jpg": "/edu-learning-react-website/static/media/team-1.df075697e0ef60906dec.jpg",
+    "static/media/team-2.jpg": "/edu-learning-react-website/static/media/team-2.10ecf4f56a747ac0e25b.jpg",
+    "index.html": "/edu-learning-react-website/index.html",
+    "main.d33d0b77.css.map": "/edu-learning-react-website/static/css/main.d33d0b77.css.map",
+    "main.e60decb4.js.map": "/edu-learning-react-website/static/js/main.e60decb4.js.map",
+    "787.7cd949fd.chunk.js.map": "/edu-learning-react-website/static/js/787.7cd949fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33d0b77.css",
+    "static/js/main.e60decb4.js"
+  ]
+}
