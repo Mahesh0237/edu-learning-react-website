@@ -6,7 +6,7 @@ import Homesection from './Components/Homesection'
 import Teamsection from './Components/Teamsection'
 function Main() {
   return (
-    <div>
+    <div className = "Elisha">
         <Homesection/>
         <Aboutsection/>
         <Coursesection/>
